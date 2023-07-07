@@ -1,0 +1,15 @@
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\bin\Debug\net6.0\gbspec.exe
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\bin\Debug\net6.0\gbspec.deps.json
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\bin\Debug\net6.0\gbspec.runtimeconfig.json
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\bin\Debug\net6.0\gbspec.dll
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\bin\Debug\net6.0\gbspec.pdb
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\obj\Debug\net6.0\gbspec.csproj.AssemblyReference.cache
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\obj\Debug\net6.0\gbspec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\obj\Debug\net6.0\gbspec.AssemblyInfoInputs.cache
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\obj\Debug\net6.0\gbspec.AssemblyInfo.cs
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\obj\Debug\net6.0\gbspec.csproj.CoreCompileInputs.cache
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\obj\Debug\net6.0\gbspec.dll
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\obj\Debug\net6.0\refint\gbspec.dll
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\obj\Debug\net6.0\gbspec.pdb
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\obj\Debug\net6.0\gbspec.genruntimeconfig.cache
+C:\Users\Антон\OneDrive\Документы\GB\gbspec\obj\Debug\net6.0\ref\gbspec.dll
